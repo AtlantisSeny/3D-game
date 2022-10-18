@@ -1,0 +1,1 @@
+将Scripts中的Controller添加到camera即可运行

@@ -1,0 +1,1 @@
+将Prefabs中的Solar添加到场景中，然后将Scripts中的PlantBehaviour添加到Sun中即可运行

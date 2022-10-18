@@ -1,0 +1,4 @@
+repository "Solar System Simulation@ssl://jiugeyuheng@sh02-plasticscm.unity.cn:8787"
+  path "/"
+    br "/main"
+    co "/main"
