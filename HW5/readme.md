@@ -1,0 +1,2 @@
+打开方式一：创建新项目，把Assets文件夹拉进去，然后选中Scenes文件夹中的SampleScene运行即可
+打开方式二：将Scripts文件夹中的SceneController、DiskFactory和ScoreRecorder拖到maincamrea上运行即可
