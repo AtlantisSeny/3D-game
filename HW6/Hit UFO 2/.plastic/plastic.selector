@@ -1,0 +1,4 @@
+repository "Hit UFO 2@jiugeyuheng@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
